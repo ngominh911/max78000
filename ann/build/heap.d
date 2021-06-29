@@ -1,0 +1,34 @@
+c:/Users/DucminhN/Downloads/Software/max78000/work_space/ann/build/heap.o: \
+ c:/Users/DucminhN/Downloads/Software/max78000/Libraries/CMSIS/Device/Maxim/MAX78000/Source/heap.c \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\lib\gcc\arm-none-eabi\9.2.1\include\stdint.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\stdint.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\machine\_default_types.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\features.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\_newlib_version.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\_intsup.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\_stdint.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\errno.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\errno.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\reent.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\_ansi.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\newlib.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\config.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\machine\ieeefp.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\lib\gcc\arm-none-eabi\9.2.1\include\stddef.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\_types.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\machine\_types.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\lock.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\unistd.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\unistd.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\cdefs.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\types.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\machine\endian.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\machine\_endian.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\select.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\_sigset.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\_timeval.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\timespec.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\_timespec.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\_pthreadtypes.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\sys\sched.h \
+ c:\users\ducminhn\downloads\software\max78000\tools\gnutools\arm-none-eabi\include\machine\types.h
